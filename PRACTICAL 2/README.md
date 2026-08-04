@@ -2,29 +2,12 @@
 
 ## Overview
 
-This project demonstrates the implementation of two basic search algorithms using Python:
+ the implementation of two basic search algorithms using Python are:
 
 * Linear Search
 * Binary Search
 
 The programs accept user input, search for a given element, display the result, measure execution time, and explain the time and space complexity of each algorithm.
-
-## Objectives
-
-* Learn the working of Linear Search and Binary Search.
-* Understand the difference between both searching techniques.
-* Take user input in Python.
-* Measure the execution time of the algorithms.
-* Study the time and space complexity of each algorithm.
-
-## Features
-
-* User input for array elements and search key.
-* Linear Search implementation.
-* Binary Search implementation (on sorted data).
-* Displays the position of the searched element.
-* Shows execution time.
-* Includes time and space complexity.
 
 ## Summary
 
